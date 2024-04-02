@@ -1,0 +1,3 @@
+-D tailwindcss
+axios
+vite
